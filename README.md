@@ -2,7 +2,7 @@
 This dashboard calculates KUPST with imbalance cost for selected powerplant via use of EPIAS Transparency data
 
 ## Run Dashboard
-''' bash Create python environment
+''' console Create python environment
 python -m venv env
 '''
 
