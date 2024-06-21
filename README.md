@@ -3,34 +3,34 @@ This dashboard calculates KUPST with imbalance cost for selected powerplant via 
 
 ## Run Dashboard
 Clone the repo
-```console
-foo@bar:~$ git clone https://github.com/zereaykut/KUPST_dashboard
-foo@bar:~$ cd KUPST_dashboard
+```shell
+git clone https://github.com/zereaykut/KUPST_dashboard
+cd KUPST_dashboard
 ```
 
 Create python environment
-```console
-foo@bar:~$ python -m venv env
+```shell
+python -m venv env
 ```
 
 Activate environment in Mac/Linux 
-```console
-foo@bar:~$ source env/bin/activate
+```shell
+source env/bin/activate
 ```
 
 Activate environment in Windows 
-```console
-foo@bar:~$ env\Scripts\activate
+```shell
+env\Scripts\activate
 ```
 
 Install required packages
-```console
-foo@bar:~$ pip install -r requirements.txt
+```shell
+pip install -r requirements.txt
 ```
 
 Run dashboard
-```console
-foo@bar:~$ streamlit run app.py
+```shell
+streamlit run app.py
 ```
 
 ## Example Usage
