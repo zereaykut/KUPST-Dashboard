@@ -40,10 +40,10 @@ https://github.com/zereaykut/KUPST_dashboard/assets/102432357/fd9de931-bc7f-4e3b
 KUDÜP and Real Time Generation data selection sections operate separately. It is not checked in the background whether the switchboards of these two data are matched. For this reason, the user is responsible for ensuring that the parameters selected for KUDÜP and Real Time Production Data match.
 
 ## Used Data
-MCP: Market Clearing Price [TL/MWh]
-SMP: System Marginal Price [TL/MWh]
-Real Time Generation (GRT): Hourly generation of selected powerplant [MWh]
-KUDÜP: Hourly Finalized Settlement Period Production Plan of selected powerplant [MWh]
+MCP: Market Clearing Price [TL/MWh]\n
+SMP: System Marginal Price [TL/MWh]\n
+Real Time Generation (GRT): Hourly generation of selected powerplant [MWh]\n
+KUDÜP: Hourly Finalized Settlement Period Production Plan of selected powerplant [MWh]\n
 
 ## Calculation
 
