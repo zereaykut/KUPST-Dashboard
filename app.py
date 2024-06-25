@@ -180,7 +180,7 @@ def get_smp(start_date: date, end_date: date):
     return data
 
 
-def kupst(df, tolerance_coefficient: int):
+def kupst(df, tolerance_coefficient: float):
     df["tolerance_coefficient"] = tolerance_coefficient
 
     df["imbalance_amount"] = df["grt"] - df["kudup"]
