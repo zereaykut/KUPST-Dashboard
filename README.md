@@ -1,5 +1,5 @@
 # KUPST Dashboard
-This dashboard calculates KUPST with imbalance cost for selected powerplant via use of EPIAS Transparency data
+This is a streamlit dashboard that calculates KUPST with imbalance cost for selected powerplant via use of EPIAS Transparency data
 
 ## Run Dashboard
 Clone the repo
