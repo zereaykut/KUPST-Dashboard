@@ -4,8 +4,8 @@ This is a streamlit dashboard that calculates KUPST with imbalance cost for sele
 ## Run Dashboard
 Clone the repo
 ```shell
-git clone https://github.com/zereaykut/KUPST_dashboard
-cd KUPST_dashboard
+git clone https://github.com/zereaykut/KUPST-Dashboard
+cd KUPST-Dashboard
 ```
 
 Create python environment
